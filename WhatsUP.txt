@@ -4,7 +4,7 @@ Author : Muthu kumar
 
 1.Profile page code
 
-2.Chat screen code
+2.Chat screen code color text
 
 3.Last screen code time and date
 
