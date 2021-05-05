@@ -8,7 +8,7 @@ Author : Muthu kumar
 
 3.Last screen code
 
-4.Attachements (image, Audio, Video) code
+4.Attachements (image, Audio, Video and documents) code
 
 5.Hiding the last seen
 
