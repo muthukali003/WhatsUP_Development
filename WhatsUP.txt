@@ -6,7 +6,7 @@ Author : Muthu kumar
 
 2.Chat screen code
 
-3.Last screen code
+3.Last screen code time and date
 
 4.Attachements (image, Audio, Video and documents) code
 
